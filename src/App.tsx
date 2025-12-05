@@ -381,7 +381,7 @@ function SetupScreen({ config, setConfig, onStart }) {
       <div className="w-20 h-20 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-2xl flex items-center justify-center mb-6 shadow-2xl shadow-cyan-500/30">
         <Activity size={40} className="text-black" />
       </div>
-      <h1 className="text-4xl font-black mb-2 tracking-tight">ACIRNFIT OS</h1>
+      <h1 className="text-4xl font-black mb-2 tracking-tight">ACIRNFIT</h1>
       <p className="text-slate-400 mb-10 max-w-xs">Optimalizuj svůj biologický hardware.</p>
       
       <div className="w-full max-w-sm space-y-4 text-left">
